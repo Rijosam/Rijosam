@@ -1,6 +1,23 @@
-**Rijo Sam** works as a Java Chapter Lead based in the Netherlands. He possesses extensive experience in developing applications within the payments and credits sector of the banking domain.
+# Rijo Sam
 
-Rijo is originally from India, and now settled in Netherlands.
+## About Me
+Rijo Sam works as a Java Chapter Lead based in the Netherlands. He possesses extensive experience in developing applications within the payments and credits sector of the banking domain.
+
+Rijo is originally from India and is now settled in the Netherlands.
+
+## 💼 Professional Life
+- 🧑‍💻 **Working at:** ABN AMRO Bank
+- 🎤 **Conference Speaker**
+
+## Talks
+### Tulips to Turmeric: Lessons Learned from a Global Team
+- **J-Fall:** November 2024
+- **TEQNation:** May 2024
+- **ArnhemJUG:** September 2023
+
+### Clean Code: Timeless, Just Like ‘Friends’
+- **ABN AMRO DevCon 2024:** January 2024
+
 
 <!--
 **Rijosam/Rijosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
