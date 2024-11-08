@@ -1,4 +1,6 @@
-## Hi there 👋
+**Rijo Sam** works as a Java Chapter Lead based in the Netherlands. He possesses extensive experience in developing applications within the payments and credits sector of the banking domain.
+
+Rijo is originally from India, and now settled in Netherlands.
 
 <!--
 **Rijosam/Rijosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
