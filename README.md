@@ -18,3 +18,7 @@ Rijo is originally from India and is now settled in the Netherlands.
 
 ### Clean Code: Timeless, Just Like ‘Friends’
 - **ABN AMRO DevCon 2024:** January 2024 [Slides](https://1drv.ms/p/c/9c98deced182940c/EePxGWef125CpDz2dRXRJWABVqbzg-G4En9NFBA9876Dag?e=gSeOob)
+
+## Podcast
+- **Foojay Podcast :** As a developer, how do we keep our body and mind healthy? [Video](https://youtu.be/OYX_X2x3vl8?t=1498)
+
