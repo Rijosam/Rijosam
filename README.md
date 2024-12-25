@@ -1,7 +1,6 @@
 # Rijo Sam
 
-## About Me
-Rijo Sam works as a Java Chapter Lead based in the Netherlands. He possesses extensive experience in developing applications within the payments and credits sector of the banking domain.
+Rijo works as a Java Chapter Lead based in the Netherlands. He possesses extensive experience in developing applications within the payments and credits sector of the banking domain.
 
 Rijo is originally from India and is now settled in the Netherlands.
 
