@@ -28,6 +28,7 @@ Rijo is originally from India and is now settled in the Netherlands.
 
 ## Articles
 - **Crafting Your Own Railway Display with Java! :** [Link](https://foojay.io/today/crafting-your-own-railway-display-with-java/)
+- **Pseudorandom Number Generator – The Secret Behind Santa’s Gift Bag :** [Link](https://foojay.io/today/pseudorandom-number-generator/)
 
 ## Podcasts
 - **Foojay Podcast :** As a developer, how do we keep our body and mind healthy? [Video](https://youtu.be/OYX_X2x3vl8?t=1498)
