@@ -16,6 +16,7 @@ Rijo is originally from India and is now settled in the Netherlands.
 ### Tulips to Turmeric: Lessons Learned from a Global Team - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Tulips_to_Turmeric.md)
 
 - **Voxxed Days Zürich** March 2025 (upcoming) - [Conference Details](https://zurich.voxxeddays.com/)
+- **mini.CONF - Episode X** March 2025 (upcoming) - [Conference Details](https://miniconf.io/)
 - **AmsterdamJUG** January 2025 (upcoming) - [Meetup Details](https://www.meetup.com/amsterdam-java-user-group/events/305160845/?eventOrigin=home_page_upcoming_events$all)
 - **BrabantJUG** December 2024 - [Meetup Details](https://www.meetup.com/nl-NL/brabant-jug/events/304322148/?eventorigin=group_upcoming_events) | [Slides](https://1drv.ms/p/c/9c98deced182940c/EXBgFZ6R3ThMr322fFS2EFQBt4Z7I63T0qV1BW_N-c3ovA?e=gNY45G) | [Feedback❤️](./feedback/feedback_BrabantJUG.png)
 
