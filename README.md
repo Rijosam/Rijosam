@@ -11,7 +11,7 @@ Rijo is originally from India and is now settled in the Netherlands.
 ## Talks
 
 ### Front-End Drama? Java's Got You Covered! - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Front_End_Drama.md)
-- **ABN AMRO DevCon 2025:** April 2024 (upcoming)
+- **ABN AMRO DevCon 2025:** April 2025 (upcoming)
 
 ### Tulips to Turmeric: Lessons Learned from a Global Team - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Tulips_to_Turmeric.md)
 
