@@ -11,7 +11,7 @@ Rijo is originally from India and is now settled in the Netherlands.
 ## 🎤 Talks
 
 - **Front-End Drama? Java's Got You Covered!** - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Front_End_Drama.md)
-- **Tulips to Turmeric: Lessons Learned from a Global Team** - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Tulips_to_Turmeric.md)
+- **Tulips to Turmeric: Lessons Learned from a Global Team** - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Tulips_to_Turmeric.md) | [Video](https://youtu.be/asp_elDaZvg?feature=shared)
 - **Clean Code: Timeless, Just Like ‘Friends’**
 
 ## 🗓️ Articles
@@ -33,7 +33,7 @@ Rijo is originally from India and is now settled in the Netherlands.
 
 - **AmsterdamJUG** January 2025 - [Meetup Details](https://www.meetup.com/amsterdam-java-user-group/events/305160845/?eventOrigin=home_page_upcoming_events$all) | [Slides](https://1drv.ms/p/c/9c98deced182940c/EXBgFZ6R3ThMr322fFS2EFQBt4Z7I63T0qV1BW_N-c3ovA?e=gNY45G)
 - **BrabantJUG** December 2024 - [Meetup Details](https://www.meetup.com/nl-NL/brabant-jug/events/304322148/?eventorigin=group_upcoming_events) | [Slides](https://1drv.ms/p/c/9c98deced182940c/EXBgFZ6R3ThMr322fFS2EFQBt4Z7I63T0qV1BW_N-c3ovA?e=gNY45G) | [Feedback❤️](./feedback/feedback_BrabantJUG.png)
-- **J-Fall:** November 2024 [Conference Details](https://jfall.nl/) | [Slides](https://1drv.ms/p/c/9c98deced182940c/EZAktnWy4c1LoeLgyWT6Y3YBrlpd-r4DkPeSrHD9Zea5bQ?e=kG9IDC)
+- **J-Fall:** November 2024 [Conference Details](https://jfall.nl/) | [Slides](https://1drv.ms/p/c/9c98deced182940c/EZAktnWy4c1LoeLgyWT6Y3YBrlpd-r4DkPeSrHD9Zea5bQ?e=kG9IDC) | [Video](https://youtu.be/asp_elDaZvg?feature=shared)
 - **TEQNation:** May 2024 [Conference Details](https://teqnation.com/) | [Slides](https://1drv.ms/p/c/9c98deced182940c/EeKMIpbNgSdOvnnvziNSX8wBrec6QcgBJqjdlMz2Xkk2IQ?e=3LfMFf) | [Video](https://youtu.be/6qpZ8hj5fRI?feature=shared)
 - **ABN AMRO DevCon 2024:** January 2024 [Slides](https://1drv.ms/p/c/9c98deced182940c/EePxGWef125CpDz2dRXRJWABVqbzg-G4En9NFBA9876Dag?e=gSeOob)
 - **ArnhemJUG:** September 2023
