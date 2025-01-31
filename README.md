@@ -27,7 +27,7 @@ Rijo is originally from India and is now settled in the Netherlands.
 - **ABN AMRO DevCon 2025:** April 2025 
 - **Voxxed Days Zürich** March 2025 - [Conference Details](https://zurich.voxxeddays.com/)
 - **mini.CONF - Episode X** March 2025 - [Conference Details](https://miniconf.io/)
-- **BelgianJUG** February 2025 - [Meetup Details](https://www.meetup.com/belgian-java-user-group/events/305632961/?eventOrigin=group_upcoming_events)
+- **BelgianJUG** February 2025 - [Meetup Details](https://www.meetup.com/belgian-java-user-group/events/305632961/?eventOrigin=group_upcoming_events) | [Slides](https://1drv.ms/p/c/9c98deced182940c/EdXjqD2YlAtDnIZj_dtVg7sBHXIkw-USCuS1wbl55ZH61A?e=IwrkYx)
 
 ### Past Events
 
