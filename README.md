@@ -25,12 +25,11 @@ Rijo is originally from India and is now settled in the Netherlands.
 
 ### Upcoming Events
 - **ABN AMRO DevCon 2025:** March 31st, 2025
-- **Voxxed Days Zürich** March 25th, 2025 - [Conference Details](https://zurich.voxxeddays.com/)
-- **mini.CONF - Episode X** March 20th, 2025 - [Conference Details](https://miniconf.io/)
-
 
 ### Past Events
 
+- **Voxxed Days Zürich** March 25th, 2025 - [Conference Details](https://zurich.voxxeddays.com/)
+- **mini.CONF - Episode X** March 20th, 2025 - [Conference Details](https://miniconf.io/)
 - **BelgianJUG** February 2025 - [Meetup Details](https://www.meetup.com/belgian-java-user-group/events/305632961/?eventOrigin=group_upcoming_events) | [Slides](https://1drv.ms/p/c/9c98deced182940c/EdXjqD2YlAtDnIZj_dtVg7sBHXIkw-USCuS1wbl55ZH61A?e=IwrkYx)
 - **AmsterdamJUG** January 2025 - [Meetup Details](https://www.meetup.com/amsterdam-java-user-group/events/305160845/?eventOrigin=home_page_upcoming_events$all) | [Slides](https://1drv.ms/p/c/9c98deced182940c/EXBgFZ6R3ThMr322fFS2EFQBt4Z7I63T0qV1BW_N-c3ovA?e=gNY45G)
 - **BrabantJUG** December 2024 - [Meetup Details](https://www.meetup.com/nl-NL/brabant-jug/events/304322148/?eventorigin=group_upcoming_events) | [Slides](https://1drv.ms/p/c/9c98deced182940c/EXBgFZ6R3ThMr322fFS2EFQBt4Z7I63T0qV1BW_N-c3ovA?e=gNY45G) | [Feedback❤️](./feedback/feedback_BrabantJUG.png)
