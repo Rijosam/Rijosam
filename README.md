@@ -20,6 +20,7 @@ Rijo is originally from India and is now settled in the Netherlands.
 
 ## 🎙️ Podcasts
 - **Foojay Podcast :** As a developer, how do we keep our body and mind healthy? [Video](https://youtu.be/OYX_X2x3vl8?t=1498)
+- **Foojay Podcast :** Let's Talk About Java Code! Diving into Foojay blog posts [Video](https://youtu.be/IB7drozkKUk?t=1673)
 
 ## 🗓️ Events
 
