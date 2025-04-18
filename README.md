@@ -25,10 +25,10 @@ Rijo is originally from India and is now settled in the Netherlands.
 ## 🗓️ Events
 
 ### Upcoming Events
-- **JUGNoord** April 17, 2025 - [Meetup Details](https://www.meetup.com/jug-noord/events/306222257/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 - **UtrechtJUG** May 12, 2025 - [Meetup Details](https://www.meetup.com/utrecht-java-user-group/events/305047053/?utm_medium=referral&utm_campaign=yourEvent_savedevents_share_modal&utm_source=link)
 - **Devoxx Poland** June 11-13, 2025 - [Conference Details](https://devoxx.pl)
 ### Past Events
+- **JUGNoord** April 17, 2025 - [Meetup Details](https://www.meetup.com/jug-noord/events/306222257/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 - **ABN AMRO DevCon 2025:** March 31st, 2025
 - **Voxxed Days Zürich** March 25th, 2025 - [Conference Details](https://zurich.voxxeddays.com/) | [Video](https://youtu.be/BR8H189BfOM?feature=shared) | [Slides](https://1drv.ms/p/c/9c98deced182940c/EfingCQucuJHsEvIgxDCr50BEaJ9CrQluzDOuyeIsh7RuQ)  
 - **mini.CONF - Episode X** March 20th, 2025 - [Conference Details](https://miniconf.io/)
