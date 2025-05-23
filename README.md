@@ -27,6 +27,7 @@ Rijo is originally from India and is now settled in the Netherlands.
 ### Upcoming Events
 - **RotterdamJUG** June 3, 2025 - [Meetup Details](https://www.meetup.com/rotterdamjug/events/307818817/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 - **Devoxx Poland** June 11-13, 2025 - [Conference Details](https://devoxx.pl)
+- **DevBcn Barcelona** July 08-11, 2025 - [Conference Details](https://www.devbcn.com/)
 ### Past Events
 - **UtrechtJUG** May 12, 2025 - [Meetup Details](https://www.meetup.com/utrecht-java-user-group/events/305047053/?utm_medium=referral&utm_campaign=yourEvent_savedevents_share_modal&utm_source=link) | [Slides](https://1drv.ms/p/c/9c98deced182940c/EbkkfsKsG2tGj8reVAC6Tz0BmLOIeKdVUXnRDda1Tv0tgg?e=932Fva)
 - **JUGNoord** April 17, 2025 - [Meetup Details](https://www.meetup.com/jug-noord/events/306222257/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
