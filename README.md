@@ -9,7 +9,7 @@ Rijo is originally from India and is now settled in the Netherlands.
 - 🎤 **Conference Speaker**
 
 ## 🎤 Talks
-- **Java Beyond Frameworks: Avoiding Lock-In with Agnostic Design** - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Java_Beyond_Frameworks.md)
+- **Java Beyond Frameworks: Avoiding Lock-In with Agnostic Design** - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Java_Beyond_Frameworks.md) | [Slides](https://1drv.ms/p/c/9c98deced182940c/ERsau_Gy1HNPiwxcOgmq7v4BIQK16eQY_d1uLJA3GwVV1w?e=xwNpfV)
 - **Front-End Drama? Java's Got You Covered!** - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Front_End_Drama.md) | [Video](https://www.youtube.com/watch?v=4Ik8FOYq3Nw)
 - **Tulips to Turmeric: Lessons Learned from a Global Team** - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Tulips_to_Turmeric.md) | [Video](https://youtu.be/asp_elDaZvg?feature=shared)
 - **Clean Code: Timeless, Just Like ‘Friends’**
