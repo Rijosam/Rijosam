@@ -9,7 +9,7 @@ Rijo is originally from India and is now settled in the Netherlands.
 - 🎤 **Conference Speaker**
 
 ## 🎤 Talks
-- **Java Beyond Frameworks: Avoiding Lock-In with Agnostic Design** - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Java_Beyond_Frameworks.md) | [Slides](https://1drv.ms/p/c/9c98deced182940c/ERsau_Gy1HNPiwxcOgmq7v4BIQK16eQY_d1uLJA3GwVV1w?e=xwNpfV)
+- **Java Beyond Frameworks: Avoiding Lock-In with Agnostic Design** - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Java_Beyond_Frameworks.md) | [Slides](https://1drv.ms/p/c/9c98deced182940c/EU6tucNCrLhHu0q_P-rXv5oBSr79utDMCEOJRwwoMZAcIQ?e=kAnBFN)
 - **Front-End Drama? Java's Got You Covered!** - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Front_End_Drama.md) | [Video](https://www.youtube.com/watch?v=4Ik8FOYq3Nw)
 - **Tulips to Turmeric: Lessons Learned from a Global Team** - [Abstract](https://github.com/Rijosam/Rijosam/blob/main/abstract_Tulips_to_Turmeric.md) | [Video](https://youtu.be/asp_elDaZvg?feature=shared)
 - **Clean Code: Timeless, Just Like ‘Friends’**
@@ -25,9 +25,10 @@ Rijo is originally from India and is now settled in the Netherlands.
 ## 🗓️ Events
 
 ### Upcoming Events
-- **Devoxx Belgium** October 6-10, 2025 - [Conference Details](https://devoxx.be/)
+- **J-Fall:** November 2025 [Conference Details](https://jfall.nl/) 
 
 ### Past Events
+- **Devoxx Belgium** October 6-10, 2025 - [Conference Details](https://devoxx.be/)
 - **JCConf Taiwan** September 19, 2025 - [Conference Details](https://jcconf.tw/)
 - **AmsterdamJUG** August 27, 2025 - [Meetup Details]([https://jcconf.tw/](https://www.meetup.com/amsterdam-java-user-group/events/310099397/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2))
 - **DevBcn Barcelona** July 08-11, 2025 - [Conference Details](https://www.devbcn.com/)
