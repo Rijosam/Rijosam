@@ -25,9 +25,9 @@ Rijo is originally from India and is now settled in the Netherlands.
 ## 🗓️ Events
 
 ### Upcoming Events
-- **J-Fall:** November 2025 [Conference Details](https://jfall.nl/) 
 
 ### Past Events
+- **J-Fall:** November 2025 [Conference Details](https://jfall.nl/)
 - **Devoxx Belgium** October 6-10, 2025 - [Conference Details](https://devoxx.be/)
 - **JCConf Taiwan** September 19, 2025 - [Conference Details](https://jcconf.tw/)
 - **AmsterdamJUG** August 27, 2025 - [Meetup Details]([https://jcconf.tw/](https://www.meetup.com/amsterdam-java-user-group/events/310099397/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2))
